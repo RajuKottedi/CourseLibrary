@@ -1,0 +1,33 @@
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+bld/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/*.txt
+
+
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# DNX
+project.lock.json
+
+# JS References
+**/_references.js
+
+#logs & temps
+/**/*.log
+/**/*.TMP
+/**/*.tmp
